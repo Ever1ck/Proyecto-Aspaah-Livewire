@@ -1,0 +1,3 @@
+<div>
+    {{$socios->nombre}}
+</div>
